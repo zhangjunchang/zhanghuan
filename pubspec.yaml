@@ -1,6 +1,6 @@
 name: zhanghuan
 description: "Tool for Tianjin ZHIC."
-version: 1.0.10
+version: 1.0.11
 
 environment:
   sdk: ^3.11.0
